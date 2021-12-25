@@ -1,24 +1,9 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+PROJECT FROM THEODINPROJECT
 
-Things you may want to cover:
+NAME: MICRO-REDDIT
 
-* Ruby version
+BASIC USER-POST-COMMENT ASSOCIATION AND VALIDATION
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+RUBY-VERSION : 2.7.4
